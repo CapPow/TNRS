@@ -7,7 +7,7 @@ Name Resolution Service.
 
 The TNRS is described in:
 
-[http://dx.doi.org/10.1186/1471-2105-14-16](Boyle, B. et.al. The taxonomic name resolution service: an online tool for automated standardization of plant names. BMC Bioinformatics. 2013, 14:16.)
+[Boyle, B. et.al. The taxonomic name resolution service: an online tool for automated standardization of plant names. BMC Bioinformatics. 2013, 14:16.](https://dx.doi.org/10.1186/1471-2105-14-16)
 
 Parts of this code come from other projects, as noted below in 
 LICENSE. The rest was written by iPlant.
